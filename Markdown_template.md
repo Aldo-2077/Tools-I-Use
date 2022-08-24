@@ -12,6 +12,8 @@ Example of a paragraph
 
 ~~Strike Through~~
 
+<u>underline</u>
+
 ---
 
 ## Create an internal link to a section:
