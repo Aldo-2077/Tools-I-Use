@@ -3,6 +3,12 @@
 ### *This file is not complete and is currently being updated.*
 ---
 <details>
+<summary>SANS SIFT-Workstation</summary>
+
+- [SIFT Notes](./SIFT_Notes.md)
+</details>
+
+<details>
 <summary>Markdown Language</summary>
 
 - [Faraday Academy YT](https://www.youtube.com/watch?v=bTVIMt3XllM)
