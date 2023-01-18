@@ -1,4 +1,4 @@
-# SIFT Workstation Notes
+# SIFT Workstation Notes (in progress)
 
 ## Installation of Sift-Workstation
 - Download the .ova file on the SANS website

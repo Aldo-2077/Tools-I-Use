@@ -3,7 +3,7 @@
 ### *This file is not complete and is currently being updated.*
 ---
 <details>
-<summary>SANS SIFT-Workstation</summary>
+<summary>SANS SIFT-Workstation (in progress)</summary>
 
 - [SIFT Notes](./SIFT_Notes.md)
 </details>
